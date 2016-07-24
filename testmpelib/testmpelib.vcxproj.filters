@@ -15,22 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="mpelib.c">
+    <ClCompile Include="testmpelib.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="mpe_file.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="mpelib.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="mpe_file.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="mpe_pe.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
